@@ -13,7 +13,7 @@ Prog: Trainee record system
 
 //Macros
 #define MAX_SIZE 50
-#define STRING_SIZE 30
+#define STRING_SIZE 20
 #define TRACK_SIZE 30
 
 //Prototypes
