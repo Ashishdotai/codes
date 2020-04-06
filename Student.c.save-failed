@@ -1,0 +1,26 @@
+/***
+Name: Ashish Kalra
+Emp ID: 142968
+Batch: Feb 2020 - Pune
+Date:
+Prog: Weather mgmnt system
+***/
+
+#include "Student.h"
+
+#include <stdio.h>
+#include <string.h>
+
+//Macros
+#define MAX_SIZE 50
+#define STRING_SIZE 20
+#define TRACK_SIZE 30
+
+
+struct student
+{
+    char Name[STRING_SIZE];
+    unsigned int EmpID;
+    unsigned int Salary;
+    char Track[TRACK_SIZE];
+};
