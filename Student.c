@@ -12,7 +12,7 @@ Prog: Trainee record system
 #include <string.h>
 
 //Macros
-#define MAX_SIZE 50
+#define MAX_SIZE 100
 #define STRING_SIZE 20
 #define TRACK_SIZE 30
 
